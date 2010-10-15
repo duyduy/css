@@ -8,3 +8,5 @@ www.example.com). This will allow you to more easily update Drupal core files.
 
 For more details, see: http://drupal.org/node/176043
 
+Test commit
+
